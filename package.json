@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "dev": "live-server ."
+  },
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  },
+  "dependencies": {
+    "es-module-shims": "^0.10.4",
+    "lume": "^0.3.0-alpha.0"
+  }
+}
